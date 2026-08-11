@@ -117,7 +117,7 @@ Cada ejecución (push o manual) dispara un workflow que:
 Desde la pestaña **Actions**, seleccionar el workflow `api-tests.yml` y presionar **“Re-run all jobs”** para regenerar el reporte.
 
 📄 **Último reporte publicado:**  
-👉 [Ver reporte QA en vivo](https://fernandoquintela.github.io/api-testing-jsonplaceholder/)
+👉 [Ver reporte QA en vivo](https://fernandoquintela.github.io/api-automation-framework-postman-newman/)
 
 ---
 
